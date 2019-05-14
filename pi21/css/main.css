@@ -1,0 +1,22 @@
+body { 
+background: linear-gradient(90deg, Black, Purple); 
+
+} 
+
+
+   
+    TD, TH {
+    padding: 0px; /* Поля вокруг содержимого таблицы */
+    border: 0px; /* Параметры рамки */
+   }
+
+H1 { 
+    font-size: 120%; /* Размер шрифта */
+    font-family: Verdana, Arial, Helvetica, sans-serif; /* Семейство шрифта */
+    color: White; /* Цвет текста */
+   }
+   
+   
+.selected {
+	border: solid red 1px;
+}
